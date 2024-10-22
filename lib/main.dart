@@ -16,7 +16,6 @@ class BlocProviders extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiBlocProvider(providers: [
       BlocProvider(create: (context) => getIt<AuthenticationBloc>()),
-      // BlocProvider(create: (_) => PetsBloc()),
     ], child: const MyApp());
   }
 }
