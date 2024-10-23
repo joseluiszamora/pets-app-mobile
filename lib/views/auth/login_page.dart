@@ -37,7 +37,7 @@ class _LoginPageState extends State<LoginPage> {
     ///
     /// iOS Client ID that you registered with Google Cloud.
     const iosClientId =
-        '68837437433-di5l5nafvclclv25gn07l5f6sicv8u6g.apps.googleusercontent.com';
+        '68837437433-139gtsiou1c3b5u8jaht95mtrm40b672.apps.googleusercontent.com';
 
     // Google sign in on Android will work without providing the Android
     // Client ID registered on Google Cloud.
