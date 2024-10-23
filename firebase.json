@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "pets-app-84543",
+          "appId": "1:68837437433:android:1b4b9ed5b4bfbf1c811728",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "pets-app-84543",
+          "configurations": {
+            "android": "1:68837437433:android:1b4b9ed5b4bfbf1c811728",
+            "ios": "1:68837437433:ios:ad797375adf72155811728"
+          }
+        }
+      }
+    }
+  }
+}
